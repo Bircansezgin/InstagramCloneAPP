@@ -1,0 +1,6 @@
+framework module Pods_InstagramClone_OneSignalNotificationServiceExtension {
+  umbrella header "Pods-InstagramClone-OneSignalNotificationServiceExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
